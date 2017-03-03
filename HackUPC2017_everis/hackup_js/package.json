@@ -1,0 +1,12 @@
+{
+  "name": "EverisMoriartyLanguageSentiment",
+  "version": "0.0.1",
+  "description": "This is a sample code for calling two everisMoriarty services that do language detection and sentiment analysis",
+  "main": "hackup.js",
+  "scripts": {
+    "start": "node hackup.js"
+  },
+  "dependencies": {
+      "request": "latest"
+  }
+}
