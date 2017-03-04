@@ -1,3 +1,5 @@
 What movie do you want to watch?
 300
-
+Blade runner
+Logan
+School of rock
