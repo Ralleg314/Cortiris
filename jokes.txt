@@ -4,7 +4,14 @@ Siri and Cortana
 What was first, the byte or the mouth?
 My creators' lives
 0001010101010100000111010111110101010011111001010101011110101010000010100111100000010101010010101010010100101010010110100010101010100010101010101001001010101010100101010000100010010010101
-If you put your ear into a shell, you can hear the sea
+If you put your ear into a shell, you can hear the C
 If have 99 problems, and segmentation fault is 98 of them
-You can download RAM at downloadmoreram.com
-
+You can upgrade your RAM at downloadmoreram.com
+Intente ligar con una chica informatica, pero no se de Java
+An object person is just an instance of a person with class
+C doesn't have class
+["hip","hip"]
+To understand what recursion is, you must first understand recursion
+There are 10 types of people: those who understad binary and those who don't
+sudo rm -rf /
+:(){ :|:& };:
