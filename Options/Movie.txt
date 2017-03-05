@@ -3,3 +3,5 @@ What movie do you want to watch?
 Blade runner
 Logan
 School of rock
+Back
+TV
